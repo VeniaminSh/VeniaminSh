@@ -1,16 +1,46 @@
-### Hi there 👋
+# Привет, меня зовут Вениамин! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+---
 
-<!--
-**VeniaminSh/VeniaminSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Обо мне:
+**Я начинающий аналитик.** С детства пытался искать закономерности во всем. Мой путь в IT начался с Stepikа, я прошел несколько курсов: SQL тренажер и Python для начинающих. С октября 2022 года по май 2023 я изучал курс аналитик данных Яндекс Практикум. В настоящий момент мое обучение на курсе завершено!
 
-Here are some ideas to get you started:
+- 💬 Есть опыт управления линейным персоналом.
+- 😄 Завершил курсы по DA от Яндекс Практикум!
+- ⚡ Участвовал в акселераторе от Минцифр - на платформе ФРИИ.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Социальные сети:
+
+</a>
+<a href="https://linkedin.com/in/veniamin235689" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+</a>
+<a href="https://www.facebook.com/100093042190586" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+
+---
+## Инструменты и технологии
+
+🖥️ - Office/Google Sheets
+
+🖥️ - Jupyter Lab
+
+🖥️ - DBeaver
+
+🖥️ - Tableu
+
+
+📜 - Python
+    - Pandas
+    - Numpy
+    - Seaborn
+    - Plotly
+    - matplotlib
+    - datetime
+    - scipy
+    
+    
+📜 - SQL
+
