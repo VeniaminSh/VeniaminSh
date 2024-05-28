@@ -15,7 +15,7 @@ Data analist:
 Проекты расположены по степени освоения новых навыков (1 - проект начало обучения, последний проект оконачание обучения) с проектами можно ознакомиться [здесь](https://github.com/VeniaminSh/Practicum_Projects).
 
 Data engeneer:
- [здесь]https://github.com/VeniaminSh/Data-Engineer
+ [здесь](https://github.com/VeniaminSh/Data-Engineer)
 
 ## Социальные сети:
 
